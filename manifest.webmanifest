@@ -1,0 +1,24 @@
+{
+  "name": "MY LIFE ROUTINE",
+  "short_name": "My Routine",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2ec",
+  "theme_color": "#f5f2ec",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
